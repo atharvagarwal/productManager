@@ -1,14 +1,17 @@
 # productManager
 Product Management website for large warehouses to manage their products. The website is fully mobile responsive and is made using the MERN stack
 
-to start the project locally you must have node.js,npm,mongoDB installed
-Frontend (made using create-react-app)
+to start the project locally you must have node.js,npm,mongoDB installed globally.
+Frontend (made using create-react-app) (write the following commands on ther terminal)
+
+
 1.cd Frontend
 2.npm install
 3.npm run start
 
-Backend (Node.js , mongoDB)
-Backend
+Backend (Node.js , mongoDB) (write the following commands on ther terminal)
+
+
 1.cd Backend
 2.npm install
 3.node index.js
