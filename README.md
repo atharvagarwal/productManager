@@ -19,9 +19,11 @@ ScreenShots
 ![Screenshot 2023-07-16 125441](https://github.com/atharvagarwal/productManager/assets/89630019/a6d8e68b-83e1-4a57-bf3d-7864bb1e1f1b)
 2. List Product and Categories
 ![Screenshot 2023-07-16 125704](https://github.com/atharvagarwal/productManager/assets/89630019/14992009-0c83-4a51-8cf5-f362459683dd)
-3. Catalogue Page
+![Screenshot 2023-07-16 125605](https://github.com/atharvagarwal/productManager/assets/89630019/63ce4053-a443-41e6-a630-368a251a3397)
+
+4. Catalogue Page
 ![Screenshot 2023-07-16 125200](https://github.com/atharvagarwal/productManager/assets/89630019/4a742a63-0205-42e4-bb99-40b5c0dc273f)
-4. Update and Delete Products
+5. Update and Delete Products
 ![Screenshot 2023-07-16 125351](https://github.com/atharvagarwal/productManager/assets/89630019/a33b5061-f074-4d07-8324-7f8fb93ec94d)
 ![Screenshot 2023-07-16 125319](https://github.com/atharvagarwal/productManager/assets/89630019/31498fc6-7398-4bd8-adb6-e8100b8e1452)
 5.Download as Excel (You can also filter products and download the excel)
